@@ -1,0 +1,4 @@
+pandas==1.2.3
+pyarrow==3.0.0
+Pweave==0.30.3
+
