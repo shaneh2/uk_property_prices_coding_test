@@ -1,4 +1,6 @@
 # Coding Test Report
+This coding test is about using Python Pandas to do some queries about UK property price data.
+
 In this report, I include all the code, and a sample output for each question.
 
 ## How to compile:
