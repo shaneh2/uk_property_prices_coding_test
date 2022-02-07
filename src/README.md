@@ -28,6 +28,7 @@ df = pd.read_feather(FEATHER_FILE_LOCATION)
 # Q1: Most expensive houses by county
 Implement a function that will take price paid data and return another DataFrame containing the full details of the largest transaction occurring within each county present in the data.
 
+___  Property types: D = Detached, S = Semi-Detached, T = Terraced, F = Flats/Maisonettes, O = Other___
 
 ```python
 import pandas as pd
