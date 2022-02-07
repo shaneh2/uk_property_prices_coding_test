@@ -279,8 +279,6 @@ Implement a function that will take two subsets of price paid data and returns a
   * £2,000,000 < x <= £5,000,000
   * £5,000,000+
 
-___Note that as prices change (e.g. year-to-year), the buckets which properties are in will change, affecting the results!___
-
 
 ```python
 from typing import List
