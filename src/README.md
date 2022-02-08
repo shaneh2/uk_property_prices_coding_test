@@ -186,7 +186,8 @@ Q1 2020 SE1       109221592   356539240
 
 # Q3: Transaction value concentration
 Implement a function that will take price paid data and return a DataFrame, indexed by year and with one column for each property type, giving the percentage of transactions (in descending order of size) that account for 80% of the total transaction value occurring for that property type for each year.
-___  Property types: D = Detached, S = Semi-Detached, T = Terraced, F = Flats/Maisonettes, O = Other___
+
+**Property types: D = Detached, S = Semi-Detached, T = Terraced, F = Flats/Maisonettes, O = Other**
 
 
 ```python
